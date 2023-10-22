@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 /**
- * binary_tree_height - Func that measures the height of a binary tree in prog
- * @tree: tree to go through in prog
- * Return: the height in prog
+ * binary_tree_height - Func that measures the height of a binary tree in program
+ * @tree: tree to go through in program
+ * Return: the height in program
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
