@@ -3,9 +3,9 @@
 #include "binary_trees.h"
 
 /**
- * print_num - Prints a number
+ * print_num - a printable in program
  *
- * @n: Number to be printed
+ * @n: assigned nhmber in program 
  */
 void print_num(int n)
 {
